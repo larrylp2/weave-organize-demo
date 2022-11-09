@@ -1,0 +1,468 @@
+Name,Google Scholar Link,email,Institution,Expertise,Region,Approximate PhD Graduation Year,Female or NB,Minority (Race if known),Industry
+Sergey Gorinski,,sergey.gorinsky@imdea.org,IMDEA,"CDN,CLOUD-DC,ECONOMICS,",EU,senior,,,
+Hitesh Ballani,,hitesh.ballani@microsoft.com,Microsoft Research,"CLOUD-DC,ROUTING,",EU,senior,,,
+Haya Shulman,,haya.shulman@@sit.fraunhofer.de,Fraunhofer and Hebrew university of Jerusalem,"SECURITY,",EU,,1,,1
+Rüdiger Birkner,,mail@rbirkner.ch,???,"SDN,",EU,2018,,,
+Klaus Wehrle,,wehrle@comsys.rwth-aachen.de,Aachen University,"VERIFICATION,SECURITY,",EU,senior,,,
+Radu Stoenescu,,radu.stoenescu@cs.pub.ro,Adobe,"VERIFICATION,",EU,,,,1
+Oliver Hohlfeld,,oliver.hohlfeld@b-tu.de,Brandenburg University of Technology,"MEASUREMENT,",EU,,,,
+Gabor Retvari,,retvari@tmit.bme.hu,Budapest University of Technology and Economics,"HARDWARE,PROGRAMMABLE-NW,SDN,ROUTING,THEORY,",EU,senior,,,
+Vaibhav Bajpai,,bajpai@cispa.de,CISPA Helmholtz Center for Information Security,"MEASUREMENT,",EU,,,,
+Claudio Soriente,,claudio.soriente@neclab.eu,Claudio Soriente,"WIRELESS,SECURITY,",EU,,,,1
+Vasileios Kotronis,,,Code BGP,"MEASUREMENT,",EU,,,,1
+Costas Iordanou,,,Cyprus University of Technology,"SECURITY,",EU,,,,
+Michael Sirivianos,,michael.sirivianos@eecei.cut.ac.cy,Cyprus University of Technology,,EU,,,,
+Matthias Wichtlhuber,,?,DE-CIX,"CDN,MEASUREMENT,SDN,SECURITY,ML",EU,,,,1
+Aaron Ding,,Aaron.Ding@tudelft.nl,Delft University of Technology,"CDN,",EU,,,,
+Qing Wang 0007,,qing.wang@tudelft.nl,Delft University of Technology,"WIRELESS,",EU,,,,
+Yotam Harchol,,yotam@cs.berkeley.edu,DFINITY,"HARDWARE,PROGRAMMABLE-NW,SDN,SECURITY,",EU,,,,1
+Katerina J. Argyraki,,katerina.argyraki@epfl.ch,EPFL,"VERIFICATION,ROUTING,",EU,senior,1,,
+Revathy Narayanan,,revathyperiyamana@gmail.com,Ericsson,"WIRELESS,",EU,,1,,1
+Petar Tsankov,,"petar.tsankov@inf.ethz.ch
+",ETH,"SECURITY,ML",EU,,,,
+Adrian Perrig,,perrig@cmu.edu,ETH Zurich,"ROUTING,SECURITY,",EU,senior,,,
+Laurent Vanbever,,lvanbever@ethz.ch,ETH Zurich ,"SDN,VERIFICATION,ROUTING,",EU,senior,,,
+Lefteris Manassakis,,?,Foundation for Research and Technology - Hellas (FORTH),"MEASUREMENT,ROUTING,",EU,,,,1
+Matthias Wählisch,,m.waehlisch@fu-berlin.de,Freie Universität Berlin,"MEASUREMENT,ROUTING,SECURITY,",EU,,,,
+Ankit Singla,,ankit.sigla@inf.ethz.ch?,Google,"CLOUD-DC,ROUTING,",EU,,,,1
+Maciej Korczynski,,maciej.korczynski@univ-grenoble-alpes.fr,Grenoble Alpes University,"MEASUREMENT,SECURITY,",EU,,,,
+Jussi Kangasharju,,jussi.kangasharju@helsinki.fi,Helsinki Institute for Information Technology,"CLOUD-DC,",EU,,,,
+Thomas C. Schmidt,,,Hochschule für Angewandte Wissenschaften Hamburg,"HARDWARE,MEASUREMENT,SECURITY,",EU,,,,
+George Nomikos,,gnomikos@ics.forth.gr,ICS-FORTH,"MEASUREMENT,",EU,,,,
+Domenico Giustiniano,,domenico.giustiniano@imdea.org,IMDEA,"WIRELESS,",EU,,,,
+Nikolaos Laoutaris,,nikolaos.lautaris@imdea.org,IMDEA,"MEASUREMENT,ECONOMICS,",EU,,,,
+Joerg Widmer,,widmer@acm.org,IMDEA Networks Institute,"WIRELESS,ROUTING,ENERGY,CONGESTIONCONTROL,",EU,,,,
+Hamed Haddadi,,h.haddadi@imperial.ac.uk,Imperial College London,,EU,,,,
+Luis Pedrosa,,luis.pedrosa@tecnico.ulisboa.pt,Instituto Superior Técnico,"SDN,VERIFICATION,THEORY,",EU,,,,
+Anna Brunstrom,,anna.brunstrom@kau.se,Karlstads Universitet,"MEASUREMENT,SDN,WIRELESS,CONGESTIONCONTROL,",EU,senior,1,,
+Gerald Q. Maguire Jr.,,maguire@kth.se,KTH,"HARDWARE,PROGRAMMABLE-NW,ROUTING,",EU,,,,
+Marco Chiesa,,mchiesa@kth.se,KTH,"CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,ML",EU,,,,
+Dejan Kostic,,dmk@kth.se,KTH Royal Institute of Technology,"PROGRAMMABLE-NW,",EU,,,,
+Vasileios Giotsas,,v.giotsas@lancaster.ac.uk,Lancaster University,"MEASUREMENT,ROUTING,",EU,,,,
+Yiting Xia,,yxia@mpi-inf.mpg.de,Max Planck,"HARDWARE,CLOUD-DC,PROGRAMMABLE-NW,ML",EU,,1,,
+Keon Jang,,keonjang@mpi-sws.org,Max Planck Institute for Software Systems ,"CLOUD-DC,CONGESTIONCONTROL,",EU,,,,
+Christoph Dietzel,,christoph.dietzel@mpi-inf.mpg.de,Max-Planck Institute for Informatics,"MEASUREMENT,SECURITY,",EU,,,,
+Anja Feldmann,,,Max-Planck-Institut für Informatik,"MEASUREMENT,ROUTING,",EU,senior,1,,
+Bozidar Radunovic,,bozidar@microsoft.com,Microsoft,"WIRELESS,",EU,,,,
+Thomas Karagiannis,,thomkar@microsoft.com,Microsoft,"MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,CONGESTIONCONTROL,",EU,,,,
+Paolo Costa,,paolo.costa@microsoft.com,Microsoft Research,"CDN,CLOUD-DC,ENERGY,",EU,,,,1
+Oliver Gasser,,ogasser@mpi-inf.mpg.de,MPI,"MEASUREMENT,SECURITY,",EU,,,,
+Roberto Bifulco,,roberto.bifulco@neclab.eu,NEC,,EU,,,,
+Noa Zilberman,,noa.zilberman@eng.ox.ac.uk,Oxford,"HARDWARE,PROGRAMMABLE-NW,",EU,,1,,
+Lorina Negreanu,,lorina.negreanu@cs.pub.ro,Politehnica University of Bucharest,"PROGRAMMABLE-NW,VERIFICATION,",EU,,1,,
+Eder Leão Fernandes,,ederlf@tutanota.com,Queen Mary University of London,"SDN,",EU,,,,
+Gareth Tyson,,g.tyson@qmul.ac.uk,Queen Mary University of London,"MEASUREMENT,",EU,,,,
+Gianni Antichi,,g.antichi@qmul.ac.uk,Queen Mary University of London,"HARDWARE,CLOUD-DC,",EU,,,,
+Steve Uhlig,,steve@eecs.qmul.ac.uk,"Queen Mary, University of London","CDN,MEASUREMENT,SDN,SECURITY,",EU,senior,,,
+Emile Aben,,???,RIPE NCC,"MEASUREMENT,",EU,,,,1
+Moritz Müller,,moritz.muller@sidn.nl,SIDN Labs,"MEASUREMENT,",EU,,,,1
+Michael Waidner,,michael.waidner@sit.tu-darmstadt.de,Technical University of Darmstadt,"ROUTING,SECURITY,",EU,,,,
+Joao Sobrinho,,joao.sobrinho@lx.it.pt,Technical University of Lisbon,"VERIFICATION,ROUTING,THEORY,",EU,,,,
+Andreas Blenk,,andreas.blenk@tum.de,Technical University of Munich,"MEASUREMENT,CLOUD-DC,SDN,SECURITY,ML",EU,,,,
+Georg Carle,,carlenet.in.tum.de,Technical University of Munich,"MEASUREMENT,",EU,,,,
+Nitinder Mohan,,mohan@in.tum.de,Technical University of Munich,"CDN,MEASUREMENT,CLOUD-DC,",EU,,,,
+Wolfgang Kellerer,,wolfgang.kellerer@tum.de,Technical University of Munich,"PROGRAMMABLE-NW,SDN,WIRELESS,",EU,,,,
+Andra Lutu,,andra.lutu@telefonica.com,Telefonica,"MEASUREMENT,WIRELESS,ROUTING,",EU,,1,,1
+Diego Perino,,???,Telefónica Research,"SECURITY,ML",EU,,,,1
+Georgios Smaragdakis,,"georgios@inet.tu-berlin.de
+",TU Berlin,"MEASUREMENT,ROUTING,SECURITY,",EU,,,,
+Stefan Schmid,,schmiste@gmail.com,TU Berlin,"SDN,THEORY,",EU,,,,
+Savvas Zannettou,,szannett@mpi-inf.mpg.de,TU Delft,"MEASUREMENT,",EU,,,,
+Klaus-Tycho Foerster,,klaus-tycho.foerster@tu-dortmund.de,TU Dortmund,"ROUTING,",EU,,,,
+Thomas Holterbach,,thomahol(at)ethz.ch,"U. of Strasbourg, PostDoc","VERIFICATION,ROUTING,SECURITY,ML",EU,,,,
+Rubén Cuevas,,rcuevas@it.uc3m.es,UC3Madrid,"MEASUREMENT,SECURITY,",EU,,,,
+Quentin De Coninck,,quentin.deconinck@uclouvain.be,UCLouvain,"ROUTING,",EU,,,,
+Tom Barbette,,t.barbette@gmail.com,UCLouvain,"HARDWARE,PROGRAMMABLE-NW,ROUTING,",EU,,,,
+Ángel Cuevas,,acrumin@it.uc3m.es,Universidad Carlos III de Madrid,"CDN,MEASUREMENT,SECURITY,",EU,,,,
+Juan Tapiador,,jestevez@inf.uc3m.es,Universidad Carlos III de Madrid,"SECURITY,",EU,,,,
+Antonio Carzaniga,,antonio.carzaniga@usi.ch,Università della Svizzera italiana,"CLOUD-DC,PROGRAMMABLE-NW,ROUTING,CONGESTIONCONTROL,",EU,,,,
+Costin Raiciu,,costin.raiciu@cs.pub.ro,Universitatea Politehnica Bucuresti,"CLOUD-DC,SDN,VERIFICATION,CONGESTIONCONTROL,",EU,,,,
+Brad Karp,,bkarp@cs.ucl.ac.uk,University College London,"WIRELESS,ROUTING,",EU,senior,,,
+Ran Ben Basat,,r.benbasat@cs.ucl.ac.uk,University College London,"ROUTING,THEORY,",EU,,,,
+Stefano Vissicchio,,s.vissicchio@cs.ucl.ac.uk,University College London,"HARDWARE,MEASUREMENT,ROUTING,",EU,,,,
+Rajdeep Das,,r4das@ucsd.edu,University of California San Diego,"HARDWARE,PROGRAMMABLE-NW,",EU,,,,
+Alice Hutchings,,,University of Cambridge,"MEASUREMENT,SECURITY,",EU,,1,,
+Sergio Pastrana,,sp849@cam.ac.uk,University of Cambridge,"MEASUREMENT,SECURITY,",EU,,,,
+Tim Griffin,,tgg22@cam.ac.uk,University of Cambridge,"ROUTING,THEORY,",EU,senior,,,
+Andrew Moore,,andrew.moore@cl.cam.ac.uk,"University of Cambridge, UK","MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,",EU,senior,,,
+Xenofontas A. Dimitropoulos,,fontas@ics.forth.gr,University of Crete,"MEASUREMENT,",EU,,,,
+Florentin Rochet,,frochet@ed.ac.uk,University of Edinburgh,"SECURITY,",EU,,,,
+Michio Honda,,michio.honda@ed.ac.uk,University of Edinburgh,"HARDWARE,PROGRAMMABLE-NW,SDN,",EU,,,,
+Fernando Ramos,,fvramos@tecnico.ulisboa.pt,University of Lisbon,"PROGRAMMABLE-NW,VERIFICATION,SECURITY,",EU,,,,
+Cristel Pelsser,,pelsser@unistra.fr,University of Strasbourg,"MEASUREMENT,ROUTING,",EU,,1,,
+Daniel R. Thomas,,d.thomas@strath.ac.uk,University of Strathclyde,"MEASUREMENT,SECURITY,",EU,,,,
+Aiko Pras,,a.pras@utwente.nl,University of Twente,"SECURITY,",EU,,,,
+Anna Sperotto,,a.sperotto@utwente.nl,University of Twente,"MEASUREMENT,SECURITY,",EU,,1,,
+Mattijs Jonker,,m.jonker@utwente.nl,University of Twente,"MEASUREMENT,SECURITY,",EU,,,,
+Ralph Holz,,ralph@ralphholz.science,University of Twente,"SECURITY,",EU,,,,
+Roland van Rijswijk-Deij,,r.m.vanrijswijk@utwente.nl,University of Twente,"MEASUREMENT,SECURITY,",EU,senior,,,
+Aleksandr Zavodovski,,,Uppsala University,"MEASUREMENT,CLOUD-DC,",EU,,,,
+Torsten Zimmermann,,,Valtech Mobility GmbH,"MEASUREMENT,",EU,,,,1
+Olivier Bonaventure,,Olivier.Bonaventure@uclouvain.be,UC Louvain,"CDN,CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,SECURITY,CONGESTIONCONTROL,",EU,senior,,,
+Kun Tan,,,HUAWEI Technologies,"CLOUD-DC,WIRELESS,CONGESTIONCONTROL,",NA,,,,1
+Hongzi Mao,,hongzi@alum.mit.edu,"""Stealth Startup"" ",ML,NA,,,,
+John P. Rula,,john.rula@eecs.northwestern.edu,Akamai,"CDN,MEASUREMENT,",NA,,,,1
+Philipp Richter,,prichter@akamai.com,"Akamai, MIT","MEASUREMENT,",NA,,,,1
+Pengyu Zhang,,zhangelsu@gmail.com,Ali Baba Seattle,"WIRELESS,",NA,,,,
+Rui Miao,,miao.rui AT alibaba-inc dot com,Ali Baba Seattle,"SDN,SECURITY,CONGESTIONCONTROL,",NA,,,,
+Dennis Cai,,???,Alibaba,"CLOUD-DC,PROGRAMMABLE-NW,",NA,,,,1
+Ennan Zhai,,ennan.zhai@alibaba-inc.com,Alibaba,"VERIFICATION,SECURITY,",NA,,,,1
+Ming Zhang,,m.zhang@alibaba-inc.com,Alibaba,"CLOUD-DC,VERIFICATION,",NA,,,,1
+Alexandru Agache,,,Amazon,"CLOUD-DC,PROGRAMMABLE-NW,",NA,,,,1
+Amogh Dhamdhere,,,Amazon,"MEASUREMENT,ROUTING,CONGESTIONCONTROL,",NA,,,,1
+Ramakrishna Padmanabhan,,,Amazon,"MEASUREMENT,",NA,,,,1
+Zahaib Akhtar,,zakhtar@usc.edu,Amazon,"CDN,WIRELESS,",NA,,,,1
+Eric Liang,,???,Anyscale,"PROGRAMMABLE-NW,ML",NA,,,,1
+Randy Bush,,randy@psg.com,Arrcus,"MEASUREMENT,ROUTING,SECURITY,",NA,,,,1
+Ajay Mahimkar,,,AT&T,"CLOUD-DC,PROGRAMMABLE-NW,WIRELESS,ROUTING,",NA,senior,,,1
+Zihui Ge,,gezihui@att.com,AT&T,"PROGRAMMABLE-NW,WIRELESS,",NA,,,,1
+Emir Halepovic,,???,AT&T Labs,"WIRELESS,",NA,,,,1
+Subhabrata Sen,,sen@research.att.com,AT&T Labs - Research,"CONGESTIONCONTROL,",NA,senior,,,1
+Han Wang 0009,,hwang@cs.cornell.edu,Barefoot / Intel,"HARDWARE,PROGRAMMABLE-NW,",NA,,,,1
+Tian Pan 0001,,?,Beijing University of Posts and Telecommunication,"HARDWARE,MEASUREMENT,SDN,",NA,,,,
+Hyunseok Chang,,hyunseok.chang@nokia-bell-labs.com,Bell Labs,"CDN,PROGRAMMABLE-NW,",NA,,,,
+Jeremy Blackburn,,blackburn@cs.binghamton.edu,Binghamton University.,"MEASUREMENT,SECURITY,",NA,,,,
+Sharon Goldberg,,goldbe@cs.bu.edu,Boston University,"MEASUREMENT,SECURITY,THEORY,",NA,senior,1,,
+Zaoxing Liu,,zaoxing@bu.edu,Boston University,"HARDWARE,MEASUREMENT,THEORY,",NA,,,,
+Casey T. Deccio,,casey@byu.edu,Brigham Young University,"MEASUREMENT,",NA,,,,
+Theophilus Benson,,tab@cs.brown.edu,Brown University,"HARDWARE,MEASUREMENT,PROGRAMMABLE-NW,SDN,VERIFICATION,CONGESTIONCONTROL,THEORY,",NA,senior,,,
+Anubhavnidhi Abhashkumar,,archie.nidhi@bytedance.com,ByteDance,"CLOUD-DC,PROGRAMMABLE-NW,VERIFICATION,ROUTING,",NA,,,,
+Da Yu,,0xdayu@gmail.com,ByteDance,"CLOUD-DC,SDN,",NA,,,,1
+Ricky K. P. Mok,,cskpmok@caida.org,CAIDA,"MEASUREMENT,",NA,,,,
+Alexander Marder,,amarder@caida.org,"CAIDA, UCSD","MEASUREMENT,CLOUD-DC,SECURITY,",NA,,,,
+Giulia C. Fanti,,gfanti@andrew.cmu.edu,Carnegie Mellon,"THEORY,",NA,,1,,
+Srinivasan Seshan,,srini@cs.cmu.edu,Carnegie Mellon University,"HARDWARE,ENERGY,CONGESTIONCONTROL,",NA,senior,,,
+Swarun Kumar,,dsienko@andrew.cmu.edu,Carnegie Mellon University,"WIRELESS,",NA,,,,
+Patrick P. C. Lee,,pclee@cse.cuhk.edu.hk,Chinese University of Hong Kong,"MEASUREMENT,CLOUD-DC,",NA,,,,
+Oscar Bejarano,,ob4@rice.edu,Cisco,"WIRELESS,",NA,,,,
+Tom Edsall,,,Cisco,"PROGRAMMABLE-NW,",NA,,,,1
+Zicheng Chi,,z.chi@csuohio.edu,Cleveland State University,"WIRELESS,SECURITY,ENERGY,",NA,,,,
+Jan Rüth,,rueth@comsys.rwth-aachen.de,Cloudflare,"CDN,MEASUREMENT,ROUTING,SECURITY,CONGESTIONCONTROL,",NA,,,,1
+Nick Sullivan,,nick@cloudflare.com,Cloudflare,"MEASUREMENT,SECURITY,",NA,,,,1
+Vyas Sekar,,vsekar@andrew.cmu.edu,CMU,"CDN,MEASUREMENT,CLOUD-DC,SDN,ROUTING,THEORY,",NA,,,,
+Aaron Gember-Jacobson,,agemberjacobson@colgate.edu,Colgate University,"VERIFICATION,",NA,2016,,,
+Ethan Katz-Bassett,,ethan@ee.columbia.edu,Columbia University,"MEASUREMENT,ROUTING,",NA,senior,,,
+Kevin Vermeulen,,kevin.vermeulen@columbia.edu,Columbia University,"MEASUREMENT,",NA,,,,
+Hui Zhang 0001,,,Conviva,"CDN,",NA,,,,1
+Hakim Weatherspoon,,hweather@cs.cornell.edu,Cornell,"HARDWARE,MEASUREMENT,CLOUD-DC,",NA,senior,,,
+Lorenzo Alvisi,,lorenzo.alvisi@cs.cornell.edu,Cornell University,"THEORY,",NA,senior,,,
+Mina Tahmasbi Arashloo,,arashloo@cornell.edu,Cornell University,"HARDWARE,CONGESTIONCONTROL,",NA,2022,1,,
+Nate Foster,,jnfoster@cs.cornell.edu,Cornell University,"SDN,VERIFICATION,THEORY,",NA,senior,,,
+Rachit Agarwal,,ragarwal@cs.cornell.edu,Cornell University,"CLOUD-DC,PROGRAMMABLE-NW,SDN,THEORY,",NA,senior,,,
+Bruce M. Maggs,,bmm@cs.duke.edu,Duke University,"CDN,ROUTING,",NA,senior,,,
+Danyang Zhuo,,danyang@cs.duke.edu,Duke University,"CLOUD-DC,PROGRAMMABLE-NW,",NA,,,,
+Xiaowei Yang,,xwy@cs.duke.edu,Duke University,"MEASUREMENT,CLOUD-DC,SDN,ROUTING,SECURITY,ECONOMICS,CONGESTIONCONTROL,",NA,senior,1,,
+Marcel Flores,,?,Edgecast,"CDN,",NA,,,,
+Cheng Jin,,,Facebook,"HARDWARE,SDN,ML",NA,,1,,
+James Hongyi Zeng,,hyzeng _at_ cs.stanford.edu,Facebook,"CLOUD-DC,SDN,ROUTING,",NA,,,,
+Satyajeet Singh Ahuja,,sahuja@fb.com,Facebook,"CLOUD-DC,PROGRAMMABLE-NW,SDN,",NA,,,,1
+Yikai Lin ,,yikailin@fb.com,Facebook,"SDN,",NA,,,,1
+Ying Zhang,,zhangying@fb.com,Facebook,"SDN,WIRELESS,ROUTING,",NA,,1,,1
+Bo Han 0001,,bohan@gmu.us,George Mason University,"WIRELESS,",NA,,,,
+Timothy Wood 0001,,timwood@gwu.edu,George Washington University,"CLOUD-DC,PROGRAMMABLE-NW,SDN,",NA,senior,,,
+Karthikeyan Sundaresan,,,Georgia Institute of Technology,"WIRELESS,",NA,,,,
+Mostafa H. Ammar,,ammar@cc.gatech.edu,Georgia Institute of Technology,"WIRELESS,CONGESTIONCONTROL,",NA,senior,,,
+Ahmed Saeed 0001,,asaeed@cc.gatech.edu,Georgia Tech,"CLOUD-DC,VERIFICATION,CONGESTIONCONTROL,",NA,,,,
+Alberto Dainotti,,dainotti@gatech.edu,Georgia Tech,"MEASUREMENT,SECURITY,",NA,,,,
+Ellen W. Zegura,,ewz@cc.gatech.edu,Georgia Tech,"HARDWARE,PROGRAMMABLE-NW,WIRELESS,ROUTING,",NA,senior,1,,
+Frank Li,,frankli@gatech.edu,Georgia Tech,"MEASUREMENT,SECURITY,",NA,2021,,,
+Ali Kheradmand,,a.i.kheradmand@gmail.com,Google,"VERIFICATION,",NA,2022,,,1
+Amaury Van Bemten,,amaury@vanbemten.com,Google,"PROGRAMMABLE-NW,SDN,",NA,,,,1
+Amin Vahdat,,vahdat@eng.ucsd.edu,Google,"CDN,CLOUD-DC,SDN,CONGESTIONCONTROL,",NA,senior,,,1
+Arjun Roy,,roy.arjun@gmail.com,Google,"CLOUD-DC,SDN,",NA,,,,
+Behnam Montazeri,,behnam.mn@gmail.com,Google,"CLOUD-DC,CONGESTIONCONTROL,",NA,,,,1
+Ghufran Baig,,gufibaigi@gmail.com,Google,"WIRELESS,CONGESTIONCONTROL,",NA,,,,1
+Joe DeBlasio,,web@joedeblasio.com,Google,"MEASUREMENT,SECURITY,",NA,,,,1
+Joon Ong,,,Google,"CLOUD-DC,ROUTING,",NA,,,,1
+Kausik Subramanian,,,Google,"CLOUD-DC,VERIFICATION,ML",NA,,,,
+Mark Filer,,?,Google,"HARDWARE,",NA,,,,1
+Masoud Moshref,,firstname.moshref.j@g.m.a.i.l,Google,"PROGRAMMABLE-NW,ML",NA,,,,1
+Nandita Dukkipati,,nanditad@google.com,Google,"CLOUD-DC,CONGESTIONCONTROL,",NA,senior,1,,1
+Naveen Kr. Sharma,,nkrsharma@gmail.com,Google,"HARDWARE,",NA,,,,1
+Omid Alipourfard,,?,Google,"MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,",NA,,,,1
+Phillippa Gill,,philippa@cs.umass.edu,Google,"MEASUREMENT,",NA,senior,1,,1
+Soo-Jin Moon,,soojin.moon91@gmail.com,Google,"PROGRAMMABLE-NW,VERIFICATION,SECURITY,",NA,,1,,
+Waqar Aqeel,,?,Google,"CDN,MEASUREMENT,SECURITY,",NA,,,,1
+Xin Sunny Huang,,xinh@alumni.rice.edu,Google,"CLOUD-DC,ML",NA,,1,,1
+Yuliang Li,,yuliangli@google.com,Google,"CLOUD-DC,PROGRAMMABLE-NW,SDN,",NA,,,,1
+Zhenyu Zhou,,zzy@cs.duke.edu ·,Google,"SDN,WIRELESS,CONGESTIONCONTROL,",NA,,,,1
+James Mickens,,,Harvard University,"MEASUREMENT,CLOUD-DC,SECURITY,",NA,senior,,,
+Michael Mitzenmacher,,michaelm@eecs.harvard.edu,Harvard University,"ECONOMICS,THEORY,",NA,senior,,,
+Minlan Yu,,minlanyu@g.harvard.edu,Harvard University,"CLOUD-DC,PROGRAMMABLE-NW,SDN,",NA,senior,1,,
+Mark Allman,,mallman@xmpp.rg.net,ICSI,"HARDWARE,MEASUREMENT,SECURITY,CONGESTIONCONTROL,",NA,senior,,,
+Abbas Razaghpanah,,abbas@icsi.berkeley.edu,"ICSI, UC Berkeley","MEASUREMENT,SECURITY,",NA,,,,
+Johanna Amann,,johanna@icir.org,"ICSI, UC Berkeley","MEASUREMENT,SECURITY,",NA,,1,,
+Changhoon Kim,,chang.kim@intel.com,Intel,"HARDWARE,PROGRAMMABLE-NW,SDN,",NA,senior,,,1
+Jeongkeun Lee,,,Intel,"HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,VERIFICATION,ROUTING,SECURITY,",NA,,,,1
+Muhammad Asim Jamshed,,asim.jamshed@gmail.com,Intel Labs,"CONGESTIONCONTROL,",NA,,,,1
+Vamsi Talla,,vamsi.talla@jeevawireless.com,Jeeva Wireless,"WIRELESS,",NA,,,,1
+Vladimir Braverman,,vova@cs.jhu.edu,Johns Hopkins,"THEORY,",NA,,,,
+Soudeh Ghorbani,,soudeh@cs.jhu.edu,Johns Hopkins University,"CLOUD-DC,VERIFICATION,THEORY,",NA,,1,,
+Mohammad Alizadeh,,alizadeh@csail.mit.edu,Massachusetts Institute of Technology,"CLOUD-DC,CONGESTIONCONTROL,ML",NA,,,,
+Brandon Schlinker,,bschlinker@inbound5.com,Meta,"ROUTING,",NA,,,,
+Srikanth Sundaresan,,srikanth@icsi.berkeley.edu,Meta,"MEASUREMENT,CONGESTIONCONTROL,",NA,,,,1
+Harsha V. Madhyastha,,harshavm@umich.edu,Michigan,"MEASUREMENT,CLOUD-DC,ROUTING,",NA,,,,
+Roya Ensafi,,ensafi [@] umich.edu,Michigan,"MEASUREMENT,SECURITY,",NA,senior,,,
+Behnaz Arzani,,bearzani@microsoft.com,Microsoft,"CLOUD-DC,CONGESTIONCONTROL,ML",NA,,1,,
+Jacob Nelson,,jacob.nelson@microsoft.com,Microsoft,"HARDWARE,CLOUD-DC,ML",NA,,,,1
+Jitendra Padhye,,padhye@microsoft.com,Microsoft,"CLOUD-DC,WIRELESS,VERIFICATION,CONGESTIONCONTROL,THEORY,",NA,senior,,,1
+Karthick Jayaraman,,,Microsoft,"CLOUD-DC,SECURITY,",NA,,,,1
+Shachar Raindel,,,Microsoft,"PROGRAMMABLE-NW,CONGESTIONCONTROL,",NA,,,,
+Siddhartha Sen,,sidsen@microsoft.com,Microsoft,"CONGESTIONCONTROL,ML",NA,,,,
+Ganesh Ananthanarayanan,,GA@microsoft.com,Microsoft Azure,"CLOUD-DC,",NA,,,,1
+Rachee Singh,,rachee.singh@gmail.com,Microsoft Azure,"CLOUD-DC,ROUTING,",NA,2022,1,,1
+Wei Zhang 0052,,wei.zhang.gb@gmail.com,Microsoft Azure,"HARDWARE,PROGRAMMABLE-NW,",NA,,1,,
+Daehyeok Kim,,daehyeok.kim@microsoft.com,Microsoft Research,"PROGRAMMABLE-NW,",NA,,,,1
+Dan R. K. Ports,,dan@drkp.net,Microsoft Research,"HARDWARE,PROGRAMMABLE-NW,",NA,,,,1
+Daniel S. Berger,,daniel.berger@microsoft.com,Microsoft Research,"CDN,THEORY,",NA,,,,1
+Krishna Chintalapudi,,krchinta@microsoft.com,Microsoft Research,"PROGRAMMABLE-NW,WIRELESS,",NA,,,,
+Longfei Shangguan,,longfei.shangguan@microsoft.com,Microsoft Research,"HARDWARE,WIRELESS,SECURITY,",NA,,,,1
+Matt Calder,,mcalder@microsoft.com,Microsoft Research,"MEASUREMENT,ROUTING,",NA,,,,1
+Ranveer Chandra,,ranveer@microsoft.com,Microsoft Research,"WIRELESS,ENERGY,",NA,senior,,,1
+Ryan Beckett,, rybecket@microsoft.com,Microsoft Research,"VERIFICATION,",NA,,,,
+Wei Bai 0001,,webai@microsoft.com,Microsoft Research,"CLOUD-DC,CONGESTIONCONTROL,ML",NA,,,,1
+Dina Katabi,,dk@mit.edu,MIT,"WIRELESS,ML",NA,senior,1,,
+Fadel Adib,,fadel@mit.edu,MIT,"WIRELESS,",NA,,,,
+Hari Balakrishnan,,hari@csail.mit.edu,MIT,"CDN,MEASUREMENT,CLOUD-DC,WIRELESS,ROUTING,CONGESTIONCONTROL,",NA,senior,,,
+Manya Ghobadi,,ghobadi@csail.mit.edu,MIT,"HARDWARE,CLOUD-DC,PROGRAMMABLE-NW,ML",NA,senior,1,,
+Arthur W. Berger,,awberger@akamai.com,"MIT, Akamai","CDN,ROUTING,",NA,,,,
+Robert Beverly,,rbeverly@nps,Naval Postgraduate School,"MEASUREMENT,",NA,,,,
+Sampath Rangarajan,,sampath@nec-labs.com ,NEC Labs,"WIRELESS,",NA,,,,
+Matthew K. Mukerjee,,mukerjee@nefeli.io,Nefeli Networks,,NA,,,,
+Anirudh Sivaraman,,anirudh@cs.nyu.edu,New York University,"PROGRAMMABLE-NW,SDN,ROUTING,",NA,,,,
+Aurojit Panda,,apanda@cs.nyu.edu,New York University,"CDN,HARDWARE,PROGRAMMABLE-NW,SDN,VERIFICATION,",NA,,,,
+Damon McCoy,,mccoy@nyu.edu,New York University,"MEASUREMENT,SECURITY,",NA,,,,
+Walter Willinger,,wwillinger@niksun.com,NIKSUN,"MEASUREMENT,ROUTING,",NA,senior,,,
+Matteo Varvello,,matteo.varvello@nokia.com,Nokia Bell Labs,"CDN,PROGRAMMABLE-NW,SDN,",NA,,,,1
+Sarit Mukherjee,,sarit.mukherjee@nokia-bell-labs.com,Nokia Bell Labs,"CLOUD-DC,SDN,",NA,,,,1
+Alan Mislove,,amislove@ccs.neu.edu,Northeastern University,"CDN,MEASUREMENT,SECURITY,",NA,senior,,,
+Daniel J. Dubois,,d.dubois@northeastern.edu,Northeastern University,"WIRELESS,SECURITY,",NA,,,,
+David R. Choffnes,,choffnes@ccs.neu.edu,Northeastern University,"MEASUREMENT,WIRELESS,SECURITY,",NA,senior,,,
+Dimitrios Koutsonikolas,,d.koutsonikolas@northeastern.edu,Northeastern University,"WIRELESS,",NA,,,,
+Engin Kirda,,ek@ccs.neu.edu,Northeastern University,"SECURITY,",NA,,,,
+Tan Cheng,,c.tan@northeastern.edu,Northeastern University,"VERIFICATION,ML",NA,,,,
+William K. Robertson,,wkr@wkr.io,Northeastern University ,"SECURITY,",NA,,,,
+Fabián E. Bustamante,,fabianb@cs.northwestern.edu,Northwestern University,"MEASUREMENT,PROGRAMMABLE-NW,",NA,senior,,,
+Karan Gupta,,,Nutanix,"CLOUD-DC,",NA,,,,1
+Mehrdad Hessar,,?,OctoML,"WIRELESS,ENERGY,",NA,,,,
+Shaileshh Bojja Venkatakrishnan,,bojjavenkatakrishnan.2@osu.edu,Ohio State University,"CLOUD-DC,ROUTING,CONGESTIONCONTROL,THEORY,",NA,,,,
+Carmelo Cascone,,"carmelo@opennetworking.org",Open Networking Foundation (ONF),"PROGRAMMABLE-NW,",NA,,,,
+Jared M Smith,,smithjm@ornl.gov,ORNL,"ROUTING,SECURITY,ML",NA,,,,1
+Aarti Gupta,,aartig@cs.princeton.edu,Princeton,"VERIFICATION,THEORY,",NA,,1,,
+Jennifer Rexford,,jrex@cs.princeton.edu,Princeton,"CDN,HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,WIRELESS,VERIFICATION,ROUTING,SECURITY,ENERGY,ECONOMICS,CONGESTIONCONTROL,MLTHEORY,",NA,senior,1,,
+Maria Apostolaki,,apostolaki@princeton.edu,Princeton University,"HARDWARE,PROGRAMMABLE-NW,ROUTING,SECURITY,ML",NA,,1,,
+Ravi Netravali,,rnetravali@cs.princeton.edu,Princeton University,"CDN,SECURITY,",NA,,,,
+Wyatt Lloyd,,wlloyd@princeton.edu,Princeton University,"CDN,CLOUD-DC,",NA,senior,,,
+John Sonchack,,jsonch@princeton.edu,"Princeton, Post Doc","HARDWARE,PROGRAMMABLE-NW,SDN,SECURITY,ML",NA,,,,
+Charlie Hu,,ychu@purdue.edu,Purdue University,"WIRELESS,SECURITY,ML",NA,senior,,,
+Chunyi Peng,,chunyi@purdue.edu,Purdue University,"WIRELESS,SECURITY,",NA,,1,,
+Muhammad Shahbaz,,mshahbaz@purdue.edu,Purdue University,"HARDWARE,VERIFICATION,ML",NA,,,,
+Sanjay G. Rao,,sanjay@ecn.purdue.edu,Purdue University,"CDN,MEASUREMENT,VERIFICATION,",NA,senior,,,
+Vishal Shrivastav,,vshriva@purdue.edu,Purdue University,"CLOUD-DC,",NA,,,,
+Ang Chen,,angchen@rice.edu,Rice University,"CLOUD-DC,VERIFICATION,SECURITY,",NA,,,,
+Rahman Doost-Mohammady,,doost@rice.edu,Rice University,"WIRELESS,",NA,,,,
+T. S. Eugene Ng,,eugeneng@rice.edu,Rice University,"CLOUD-DC,VERIFICATION,THEORY,",NA,senior,,,
+Stephen D. Strowes,,sds@ripe.net,RIPE NCC,"MEASUREMENT,",NA,,,,1
+Srinivas Narayana,,srinivas.narayana@rutgers.edu,Rutgers University,"HARDWARE,SDN,VERIFICATION,",NA,,,,
+Flavio Esposito,,flavio.esposito@slu.edu,Saint Louis University,"PROGRAMMABLE-NW,SDN,WIRELESS,",NA,,,,
+John K. Ousterhout,,ouster@cs.stanford.edu,Stanford,"CLOUD-DC,",NA,senior,,,
+Balaji Prabhakar,,balaji@stanford.edu,Stanford University,"CLOUD-DC,CONGESTIONCONTROL,THEORY,",NA,senior,,,
+David Mazières,,Requires some gymnastics,Stanford University,"PROGRAMMABLE-NW,SECURITY,",NA,senior,,,
+Keith Winstein,,keithw@cs.stanford.edu,Stanford University,"WIRELESS,CONGESTIONCONTROL,",NA,senior,,,
+Matei Zaharia,,matei@cs.stanford.edu,Stanford University,"MEASUREMENT,ML",NA,senior,,,
+Mendel Rosenblum,,mendel@cs.stanford.edu,Stanford University,"CLOUD-DC,PROGRAMMABLE-NW,",NA,senior,,,
+Sachin Katti,,skatti@stanford.edu,Stanford University,"WIRELESS,",NA,senior,,,
+Stephen Ibanez,,sibanez@stanford.edu,Stanford University,"HARDWARE,",NA,,,,
+Zakir Durumeric,,zakir@cs.stanford.edu,Stanford University,"MEASUREMENT,SECURITY,",NA,2019,,,
+Nick McKeown,,nickm@stanford.edu,Stanford University / Intel,"HARDWARE,MEASUREMENT,SDN,",NA,senior,,,
+Sadjad Fouladi,,sadjad@cs.stanford.edu,Stanford University / MSR,"CLOUD-DC,PROGRAMMABLE-NW,CONGESTIONCONTROL,",NA,,,,
+Aruna Balasubramanian,,arunab@cs.stonybrook.edu,Stony Brook University,"WIRELESS,ENERGY,",NA,,1,,
+Samir R. Das,,samir@cs.stonybrook.edu,Stony Brook University,"WIRELESS,",NA,,,,
+Anduo Wang,,adw@temple.edu,Temple University,"VERIFICATION,ROUTING,THEORY,",NA,senior,1,,
+Lili Qiu,,lili@cs.utexas.edu,The University of Texas at Austin,"WIRELESS,",NA,senior,1,,
+Brent E. Stephens,,brent@cs.utah.edu,The University of Utah,"HARDWARE,CONGESTIONCONTROL,",NA,,,,
+Yunhao Liu,,yunhao@tsinghua.edu.cn,Tsinghua University,"CLOUD-DC,WIRELESS,ENERGY,",NA,,,,
+Fahad R. Dogar,,fahad@cs.tufts.edu,Tufts University,"WIRELESS,",NA,,,,
+Haitao Zheng,,htzheng at cs dot uchicago dot edu,U Chicago,"MEASUREMENT,WIRELESS,SECURITY,",NA,,1,,
+Ting Zhu,,zt@umbc.edu,U. Maryland Baltimore County,"ROUTING,ENERGY,",NA,,,,
+Jeremy Gummeson,,gummeson@cs.umass.edu,U. Mass.,"HARDWARE,WIRELESS,ENERGY,",NA,,,,
+Jie Xiong 0001,,jxiong@cs.umass.edu,U. Mass. Amherst,"HARDWARE,WIRELESS,",NA,,,,
+J. Alex Halderman,,jhalderm@umich.edu,U. Michigan,"MEASUREMENT,SECURITY,",NA,senior,,,
+Thomas E. Anderson,,tom@cs.washington.edu,U. Washington,"MEASUREMENT,CLOUD-DC,ROUTING,SECURITY,CONGESTIONCONTROL,",NA,senior,,,
+Amy Ousterhout,,amy.ousterhout@berkeley.edu,UC Berkeley,"CLOUD-DC,PROGRAMMABLE-NW,CONGESTIONCONTROL,",NA,2022,1,,
+Joseph E. Gonzalez,,jegonzal@cs.berkeley.edu,UC Berkeley,"CLOUD-DC,ML",NA,,,,
+Narseo Vallina-Rodriguez,,narseo@icsi.berkeley.edu,UC Berkeley,"MEASUREMENT,SECURITY,",NA,,,,
+Scott Shenker,,shenker@icsi.berkeley.edu,UC Berkeley,"HARDWARE,CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,THEORY,",NA,senior,,,
+Sylvia Ratnasamy,,sylvia-ratnasamy@eecs.berkeley.edu,UC Berkeley,"HARDWARE,PROGRAMMABLE-NW,",NA,senior,1,,
+Eric Wustrow,,ewust@colorado.edu,UC Boulder,"MEASUREMENT,SECURITY,",NA,senior,,,
+kc claffy,,kc@caida.org,UC San Diego,"MEASUREMENT,ECONOMICS,",NA,senior,1,,
+Xinyu Zhang 0003,,xyzhang@ucsd.edu,UC San Diego,"WIRELESS,",NA,,,,
+Bradley Huffaker,,bradley@caida.org,UC San Diego/CAIDA,"MEASUREMENT,",NA,,,,
+Ion Stoica,,istoica@cs.berkeley.edu,UCB,"MEASUREMENT,CLOUD-DC,ROUTING,ECONOMICS,MLTHEORY,",NA,senior,,,
+George Varghese,,varghese@cs.ucla.edu,UCLA,"VERIFICATION,THEORY,",NA,senior,,,
+Omid Abari,,omid@cs.ucla.edu,UCLA,"WIRELESS,",NA,,,,
+Todd D. Millstein,,todd@cs.ucla.edu,UCLA,"VERIFICATION,",NA,,,,
+Dinesh Bharadia,,dineshb@ucsd.edu,UCSD,"WIRELESS,ENERGY,",NA,,,,
+George Porter,,gmporter@cs.ucsd.edu,UCSD,"CLOUD-DC,PROGRAMMABLE-NW,",NA,senior,,,
+Deepak Vasisht,,deepakv@illinois.edu,UIUC,"WIRELESS,",NA,2020,,,
+Haitham Hassanieh,,haitham@illinois.edu,UIUC,"WIRELESS,",NA,2019,,,
+Romit Roy Choudhury,,croy@illinois.edu,UIUC,"WIRELESS,",NA,senior,,,
+Tianyin Xu,,steidin2@illinoi.edu,UIUC,"MEASUREMENT,CLOUD-DC,VERIFICATION,SECURITY,",NA,2019,,,
+Hongxin Hu,,hongxinh@buffalo.edu,University of Buffalo,"SECURITY,",NA,,,,
+Zhiyun Qian,,zhiyun@cs.ucr.edu,University of California Riverside,"SECURITY,",NA,,,,
+Kun Qian 0004,,qiank10@gmail.com,University of California San Diego,"WIRELESS,CONGESTIONCONTROL,",NA,,,,
+Zubair Shafiq,,zubair@ucdavis.edu,"University of California, Davis","SECURITY,ML",NA,,,,
+Sangeetha Abdu Jyothi,,sangeetha.aj@uci.edu,"University of California, Irvine",,NA,,1,,
+Srikanth V. Krishnamurthy,,krish@cs.ucr.edu,"University of California, Riverside","WIRELESS,SECURITY,CONGESTIONCONTROL,ML",NA,,,,
+Aaron Schulman,,schulman@cs.ucsd.edu,"University of California, San Diego","MEASUREMENT,WIRELESS,",NA,,,,
+Alex C. Snoeren,,snoeren@cs.ucsd.edu,"University of California, San Diego","HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,WIRELESS,ROUTING,SECURITY,ENERGY,",NA,senior,,,
+Stefan Savage,,savage@cs.ucsd.edu,"University of California, San Diego","MEASUREMENT,SECURITY,",NA,senior,,,
+Steven Swanson,,swanson@cs.ucsd.edu,"University of California, San Diego",,NA,,,,
+Arpit Gupta,,arpitgupta@cs.ucsb.edu,"University of California, Santa Barbara","SDN,SECURITY,ML",NA,,,,
+Ben Y. Zhao,,ravenben+w@cs.uchicago.edu,University of Chicago,"WIRELESS,SECURITY,ML",NA,senior,,,
+Junchen Jiang,,junchenj@uchicago.edu,University of Chicago,"CLOUD-DC,ML",NA,,,,
+Nick Feamster,,feamster@uchicago.edu,University of Chicago,"MEASUREMENT,SECURITY,ML",NA,senior,,,
+Eric Rozner,,eric.rozner@colorado.edu,University of Colorado,"CLOUD-DC,WIRELESS,",NA,,,,
+Kirill Levchenko,,klevchen@illinois.edu,University of Illinois,"PROGRAMMABLE-NW,VERIFICATION,SECURITY,",NA,senior,,,
+Chris Kanich,,ckanich@uic.edu,University of Illinois at Chicago,"MEASUREMENT,ML",NA,senior,,,
+Matthew Caesar 0001,,caesar@cs.illinois.edu,University of Illinois at Urbana-Champaign,"WIRELESS,VERIFICATION,SECURITY,CLOUD-DC",NA,senior,,,
+Philip Brighten Godfrey,,pbg@illinois.edu,University of Illinois at Urbana-Champaign,"CLOUD-DC,VERIFICATION,ML",NA,senior,,,
+Radhika Mittal,,radhikam@illinois.edu,University of Illinois at Urbana-Champaign,"CONGESTIONCONTROL,",NA,,1,,
+Dave Levin,,dml@cs.umd.edu,University of Maryland,"MEASUREMENT,SECURITY,",NA,senior,,,
+Neil Spring,,nspring@cs.umd.edu,University of Maryland,"MEASUREMENT,ROUTING,",NA,senior,,,
+Wei Wang 0190,,?,University of Maryland,"CLOUD-DC,PROGRAMMABLE-NW,",NA,,,,
+Lixin Gao,,lgao@ecs.umass.edu,University of Massachusetts,"CLOUD-DC,ROUTING,",NA,senior,1,,
+Ramesh K. Sitaraman,,ramesh@cs.umass.edu,University of Massachusetts Amherst,"CDN,",NA,senior,,,
+Arun Venkataramani,,arun@cs.umass.edu,"University of Massachusetts, Amherst","WIRELESS,ROUTING,ENERGY,",NA,senior,,,
+Kang G. Shin,,kgshin@umich.edu,University of Michigan,"WIRELESS,SECURITY,ML",NA,,,,
+Mosharaf Chowdhury,,mosharaf@umich.edu,University of Michigan,"HARDWARE,CLOUD-DC,ML",NA,senior,,,
+Z. Morley Mao,,zmao@umich.edu,University of Michigan,"WIRELESS,SECURITY,",NA,senior,1,,
+Zhi-Li Zhang,,zhzhang@cs.umn.edu,University of Minnesota,"CDN,PROGRAMMABLE-NW,VERIFICATION,",NA,senior,,,
+Feng Qian,,fengqian@umn.edu,University of Minnesota - Twin Cities,"MEASUREMENT,WIRELESS,SECURITY,",NA,,,,
+Ramakrishnan Durairajan,,ram@cs.uoregon.edu,University of Oregon,"MEASUREMENT,WIRELESS,SECURITY,ECONOMICS,",NA,,,,
+Boon Thau Loo,,boonloo@seas.upenn.edu,University of Pennsylvania,"VERIFICATION,",NA,senior,,,
+Yifei Yuan,,?,University of Pennsylvania,"PROGRAMMABLE-NW,VERIFICATION,SECURITY,",NA,,,,
+Andreas Haeberlen,,ahae@cis.upenn.edu,University of Pennsylvannia,"CDN,CLOUD-DC,SECURITY,",NA,senior,,,
+Barath Raghavan,,barath.raghavan@usc.edu,University of Southern California,"PROGRAMMABLE-NW,CONGESTIONCONTROL,",NA,senior,,,
+Ramesh Govindan,,ramesh@usc.edu,University of Southern California,"CLOUD-DC,WIRELESS,",NA,senior,,,
+Wes Hardaker,,hardaker@isi.edu,University of Southern California,"MEASUREMENT,SECURITY,",NA,,,,
+Aditya Akella,,akella@cs.utexas.edu,University of Texas at Austin,"HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,WIRELESS,VERIFICATION,ROUTING,CONGESTIONCONTROL,ML",NA,senior,,,
+Jacobus E. van der Merwe,,kobus@cs.utah.edu,University of Utah,"CLOUD-DC,SDN,WIRELESS,ROUTING,SECURITY,",NA,senior,,,
+Arvind Krishnamurthy,,arvindcs.washington.edu,University of Washington,"MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,SECURITY,ML",NA,senior,,,
+Kurtis Heimerl,,kheimerl@cs.washington.edu,University of Washington,"SECURITY,CONGESTIONCONTROL,",NA,,,,
+Ratul Mahajan,,ratul@cs.washington.edu,University of Washington,"MEASUREMENT,VERIFICATION,ROUTING,",NA,senior,,,
+Shyam Gollakota ,,gshyam@cs.washington.edu,University of Washington,"WIRELESS,",NA,senior,,,
+Ali Abedi 0002,,a2abedi@uwaterloo.ca,University of Waterloo,"WIRELESS,",NA,,,,
+Bernard Wong 0001,,bernard@uwaterloo.ca,University of Waterloo,"HARDWARE,",NA,,,,
+Mohammad Hossein Mazaheri,,mh2mazah@uwaterloo.ca,University of Waterloo,"WIRELESS,",NA,,,,
+Tim Brecht,,brecht@uwaterloo DOT ca,University of Waterloo,"HARDWARE,MEASUREMENT,PROGRAMMABLE-NW,WIRELESS,",NA,,,,
+Michael M. Swift,,swift@cs.wisc.edu,University of Wisconsin,"CLOUD-DC,",NA,senior,,,
+Ming Liu 0027,,mgliu@cs.wisc.edu,University of Wisconsin at Madison,"HARDWARE,",NA,,,,
+Shivaram Venkataraman,,shivaram@cs.wisc.edu,"University of Wisconsin, Madison","CLOUD-DC,ML",NA,senior,,,
+John S. Heidemann,,ohnh@isi.edu,USC,"MEASUREMENT,ROUTING,SECURITY,",NA,senior,,,
+Taejoong Chung,,tijay@vt.edu,VIRGINIA TECH,"MEASUREMENT,SECURITY,",NA,,,,
+Sujata Banerjee,,sujata@banerjee.net,VMware,"PROGRAMMABLE-NW,SDN,",NA,,1,,1
+Todd Arnold,,todd.arnold@westpoint.edu,West Point/Army Cyber Institute,"MEASUREMENT,CLOUD-DC,",NA,,,,
+Huynh Tu Dang,,TU.DANG@WDC.COM,Western Digital,"HARDWARE,PROGRAMMABLE-NW,",NA,,,,
+Rob Harrison,,rob.harrison@westpoint.edu,Westpoint,"SDN,",NA,,,,
+Paul Barford,,b AT cs.wisc.edu,Wisconsin,"MEASUREMENT,SECURITY,",NA,senior,,,
+Robert Soulé,,robert.soule@yale.edu,Yale,"PROGRAMMABLE-NW,",NA,,,,
+Anurag Khandelwal,,anurag.khandelwal@yale.edu,Yale University,"HARDWARE,CLOUD-DC,SECURITY,",NA,,,,
+Lin Zhong,,lin.zhong@yale.edu,Yale University,"WIRELESS,",NA,,,,
+Wenjun Hu,,wenjun.hu@yale.edu,Yale University,"WIRELESS,ML",NA,,1,,
+Jennifer Chen,,yingche@scarletmail.rutgers.edu,Rutgers University,"HARDWARE,WIRELESS,ML",NA,,1,,
+Vincent Liu,,liuv@cis.upenn.edu,University of Pennsylvania,"CLOUD-DC,ROUTING,",NA,,,,
+Marinho Barcellos,,marinho.barcellos@waikato.ac.nz,University of Waikato,"MEASUREMENT,SDN,SECURITY,",Australia/NZ,senior,1,,
+Vijay Gopalakrishnan,,gvijay@att.com,AT&T Labs,"MEASUREMENT,PROGRAMMABLE-NW,SDN,",NA,,,,1
+Hongqiang Harry Liu,,lampson0505@gmail.com,Alibaba,"CDN,CLOUD-DC,ROUTING,",Asia,,,,1
+Bingchuan Tian,,bingchuantian@gmail.com,Alibaba,"CLOUD-DC,PROGRAMMABLE-NW,VERIFICATION,",Asia,,,,1
+Zhilong Zheng,,zhiyou.zzl@alibaba-inc.com,Alibaba,"CLOUD-DC,",Asia,,,,1
+Chen Sun,,qichen.sc@alibaba-inc.com,Alibaba,"PROGRAMMABLE-NW,",Asia,,,,1
+Chuanxiong Guo,,xguo@ieee.org,ByteDance,"HARDWARE,ML",Asia,senior,,,1
+Yibo Zhu,,zhuyibo@bytedance.com,ByteDance,ML,Asia,,,,1
+Yungang Bao,,baoyg@ict.ac.cn,Chinese Academy of Science,"HARDWARE,",Asia,,,,
+Zhenyu Li 0001,,zyli@ict.ac.cn,Chinese Academy of Science,"MEASUREMENT,CONGESTIONCONTROL,",Asia,,,,
+Asaf Valadarsky,,,Facebook,"SDN,VERIFICATION,ROUTING,ML",Asia,,,,
+Kai Chen 0005,,kaichen@cse.ust.hk,Hong Kong University of Science & Technology,"CLOUD-DC,VERIFICATION,CONGESTIONCONTROL,ML",Asia,,,,
+Bojie Li,,bojieli@gmail.com,Huawei,"CLOUD-DC,PROGRAMMABLE-NW,",Asia,,,,1
+Cheng Zhang 0012,,toericzhang@gmail.com,Huawei,"PROGRAMMABLE-NW,",Asia,,,,1
+Kai Zheng 0003,,kai.zheng@huawei.com,Huawei Technologies,"MEASUREMENT,CLOUD-DC,WIRELESS,SECURITY,",Asia,,,,1
+Li Chen 0008,,lich3n@outlook.com,Huawey,"CLOUD-DC,PROGRAMMABLE-NW,MLTHEORY,",Asia,,,,1
+Pravein Govindan Kannan,,Pravein.Govindan.Kannan@ibm.com,IBM,"CLOUD-DC,PROGRAMMABLE-NW,WIRELESS,",Asia,,,,1
+Romain Fontugne,,romain@iij.ad.jp,IIJ Innovation Institute,"MEASUREMENT,",Asia,,,,
+Sameer G. Kulkarni,,sameergk@iitgn.ac.in,IIT Gandhinagar,"CLOUD-DC,PROGRAMMABLE-NW,SDN,",Asia,,,,
+Praveen Tammana,,praveent@cse.iith.ac.in,Indian Institute of Technology Hyderabad,"PROGRAMMABLE-NW,SDN,",Asia,,,,
+Mythili Vutukuru,,mythili@cse.iitb.ac.in,"Indian Institute of Technology, Bombay","PROGRAMMABLE-NW,SDN,",Asia,senior,1,,
+Dongsu Han,,dongsuh@ee.kaist.ac.kr,KAIST,"CDN,CLOUD-DC,",Asia,,,,
+KyoungSoo Park,,kyoungsoo@kaist.ac.kr ,KAIST,"PROGRAMMABLE-NW,SECURITY,",Asia,,,,
+Marco Canini,,marco@kaust.edu.sa,KAUST,"CDN,SDN,ROUTING,ML",Asia,senior,,,
+Zafar Ayyub Qazi,,zafar.qazi@lums.edu.pk,Lahore University of Management Sciences,"SDN,WIRELESS,",Asia,,,,
+Zartash Afzal Uzmi,,zartash@lums.edu.pk,Lahore University of Management Sciences,"WIRELESS,THEORY,",Asia,,,,
+Ihsan Ayyub Qazi,,ihsan.qazi@lums.edu.pk,LUMS,,Asia,,,,
+Debopam Bhattacherjee,,debopamb@microsoft.com,Microsoft Research,"HARDWARE,",Asia,,,,1
+Peng Cheng 0005,,pengc@microsoft.com,MSR Asia,"CLOUD-DC,CONGESTIONCONTROL,",Asia,,,,1
+Venkata N. Padmanabhan,,padmanab@microsoft.com,MSR India,"WIRELESS,",Asia,senior,,,
+Chen Tian 0001,,tianchen@nju.edu.cn,Nanjing University,"CLOUD-DC,VERIFICATION,",Asia,,,,
+Jiaqi Zheng,,jzheng@nju.edu.cn,Nanjing University,"MEASUREMENT,CLOUD-DC,SDN,CONGESTIONCONTROL,THEORY,",Asia,,,,
+Polly Huang,,pollyhuang@ntu.edu.tw,National Taiwan University,"CDN,WIRELESS,",Asia,,1,,
+Mun Choon Chan,,chanmc@comp.nus.edu.sg,National University of Singapore,"HARDWARE,PROGRAMMABLE-NW,WIRELESS,",Asia,,,,
+Chengchen Hu,,huc@ieee.org,NIO,"HARDWARE,SECURITY,",Asia,,,,1
+Guyue Liu,,guyue@nyu.edu,NYU Shanghai,"PROGRAMMABLE-NW,WIRELESS,ROUTING,",Asia,,1,,
+Shir Landau Feibish,,shirlf@openu.ac.il,Open University of Israel,"MEASUREMENT,ROUTING,SECURITY,",Asia,,1,,
+Qun Huang 0001,,huangqun@pku.edu.cn,Peking University,"PROGRAMMABLE-NW,",Asia,,,,
+Tong Yang 0003,,yangtongemail@gmail.com,Peking University,"THEORY,",Asia,,,,
+Wenfei Wu,,wenfeiwu@pku.edu.cn,Peking University,"PROGRAMMABLE-NW,ML",Asia,,,,
+Xin Jin,,xinjinpku@pku.edu.cn,Peking University,"SDN,",Asia,,,,
+YoungGyoun Moon,,ygyoun.moon@gmail.com,Samsung Research,"HARDWARE,PROGRAMMABLE-NW,WIRELESS,",Asia,,,,1
+Ariel Orda,,ariel@ee.technion.ac.il,Technion,"ROUTING,ECONOMICS,",Asia,,,,
+Isaac Keslassy,,isaac (at) technion.ac.il,Technion,"HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,CONGESTIONCONTROL,MLTHEORY,",Asia,,,,
+Roy Friedman,,roy@cs.technion.ac.il,Technion,"THEORY,",Asia,,,,
+Dan Pei,,peidan@tsinghua.edu.cn,Tsinghua University,ML,Asia,,,,
+Fengyuan Ren,,renfy@tsinghua.edu.cn,Tsinghua University,"CLOUD-DC,WIRELESS,",Asia,,,,
+Mingwei Xu,,xumw@tsinghua.edu.cn,Tsinghua University,"PROGRAMMABLE-NW,ROUTING,CONGESTIONCONTROL,",Asia,,,,
+Yuanjie Li,,yuanjiel@tsinghua.edu.cn,Tsinghua University,"WIRELESS,THEORY,",Asia,,,,
+Zhiliang Wang,,wzl@cernet.edu,Tsinghua University,"CLOUD-DC,VERIFICATION,",Asia,,,,
+Jianping Wu,,jianping@cernet.edu.cn,Tsingshua University,"VERIFICATION,ROUTING,CONGESTIONCONTROL,THEORY,",Asia,,,,
+Sucha Supittayapornpong,,sucha.s@vistec.ac.th,Vidyasirimedhi Institute of Science and Technology,"CLOUD-DC,THEORY,",Asia,,,,
+Shay Vargaftik,,shayv@vmware.com,VMware Research,"CLOUD-DC,CONGESTIONCONTROL,ML",Asia,,,,1
+Hao Li 0011,,hao.li@xjtu.edu.cn,Xi'an Jiatong University,"HARDWARE,PROGRAMMABLE-NW,",Asia,,,,
+Michael Schapira,,schapiram@cs.huji.ac.il,Hebrew University of Jerusalem,"SDN,ROUTING,SECURITY,CONGESTIONCONTROL,MLTHEORY,",Middle East,senior,,,
+Matthew J. Luckie,,mjl@wand.net.nz,University of Waikato,"MEASUREMENT,ROUTING,",Australia/NZ,,,,1
+Richard Nelson,,richardn@waikato.ac.nz,University of Waikato,"MEASUREMENT,SDN,",Australia/NZ,,,,
+Miguel C. Neves,,miguelcneves2@gmail.com,Dalhousie University,"PROGRAMMABLE-NW,VERIFICATION,",Latin America,,,,
+Italo Cunha,,cunha@dcc.ufmg.br,UFMG,"MEASUREMENT,CLOUD-DC,ROUTING,SECURITY,",Latin America,,,,
+Ricardo de Oliveira Schmidt,,r.schmidt@utwente.nl,Universidade de Passo Fondo,"MEASUREMENT,SECURITY,",Latin America,,,,
+Christian Esteve Rothenberg,,chesteve@dca.fee.unicamp.br,University of Campinas,"PROGRAMMABLE-NW,SDN,",Latin America,,,,
+Yunfei Ma,,yunfei.ma@alibaba-inc.com,Alibaba,"CDN,WIRELESS,CONGESTIONCONTROL,",Asia,,,,1
+Zheng Cao,,zhengzhi.cz@alibaba-inc.com,Alibaba,"HARDWARE,CLOUD-DC,",Asia,,,,
+Amedeo Sapio,,,Barefoot,"CLOUD-DC,PROGRAMMABLE-NW,ML",NA,,,,
+Gil Einziger,,gilein (at) bgu.ac.il,Ben Gurion University,"THEORY,",Middle East,senior,,,
+Ingmar Poese,,ipoese@benocs.com,BENOCS,"CDN,MEASUREMENT,CLOUD-DC,ROUTING,",EU,,,,1
+Peter Steenkiste,,prs@cs.cmu.edu,Carnegie Mellon University,,NA,senior,,,
+Hong Xu 0001,, hongxu [at] cuhk.edu.hk,Chinese University of Hong Kong,"CLOUD-DC,PROGRAMMABLE-NW,ML",Asia,,,,
+Yossi Gilad,,yossigi@cs.huji.ac.il,Hebrew University of Jerusalem,,Middle East,,,,
+Ilias Leontiadis,,iliasl@gmail.com,Meta,"THEORY,",EU,,,,
+Kevin Hsieh,,kevin.hsieh@microsoft.com,Microsoft Research,ML,NA,,,,
+Yongqiang Xiong,,yqx@microsoft.com,Microsoft Research,,Asia,,,,
+Seo Jin Park,,seojin@csail.mit.edu,MIT,,NA,,,,
+Lars Eggert,,lars@netapp.com ,NetApp,"CDN,HARDWARE,MEASUREMENT,CLOUD-DC,PROGRAMMABLE-NW,SDN,ROUTING,SECURITY,ECONOMICS,CONGESTIONCONTROL,",EU,senior,,,
+Christo Wilson,,cbw@ccs.neu.edu,Northeastern University,,NA,,,,
+Patrick D. McDaniel,,mcdaniel@cse.psu.edu,Penn State,"SECURITY,",NA,senior,,,
+Marco Mellia,,marco.mellia@polito.it,Politecnico di Torino,"MEASUREMENT,ML",EU,,,,
+Ignacio Castro,,i.castro@qmul.ac.uk,Queen Mary University of London,"ECONOMICS,",EU,,,,
+Salvatore Pontarelli,,salvatore.pontarelli@uniroma2.it,Sapienza University of Rome,,EU,,,,
+Peng Zhang 0011,,p.zhang@stonybrook.edu,Stony Brook,"ENERGY,",NA,,,,
+Giovane C. M. Moura,,giovane at protonmail .ch,TU Delft,"MEASUREMENT,ROUTING,",EU,,,,
+Quirin Scheitle,,,TUM,"MEASUREMENT,",EU,,,,
+Mark Handley,,m.handley@cs.ucl.ac.uk,UCL,"HARDWARE,ROUTING,CONGESTIONCONTROL,",EU,senior,,,
+Gang Wang 0011,,gangw@illinois.edu,UIUC,"MEASUREMENT,SECURITY,",NA,,,,
+Giuseppe Bianchi 0001,,giuseppe.bianchi at uniroma2.it,Università degli Studi di Roma - Tor Vergata,,EU,,,,
+Raghav Subbaraman,,rsubbaraman@eng.ucsd.edu,University of California San Diego,"WIRELESS,",NA,,,,
+K. K. Ramakrishnan,,kk@cs.ucr.edu,"University of California, Riverside","PROGRAMMABLE-NW,SDN,",NA,senior,,,
+Tarun Mangla,,tmangla@uchicago.edu,University of Chicago,"MEASUREMENT,",NA,2020,,,
+Justine Sherry,,sherry@cs.cmu.edu,CMU,"HARDWARE,MEASUREMENT,PROGRAMMABLE-NW,CONGESTIONCONTROL,",NA,senior,,,
+Ranjita Bhagwan,,,Microsoft Research,,Asia,senior,1,,
+Bamba Gueye,,,Université Cheikh Anta Diop,,Africa,2020,,Black,
+Mobin Javed,,,LUMS,,Asia,2022,1,,
+Kanchana Kanchanasut,,,Asian Institute of Technology,,Asia,senior,1,,
+Cecilia Testart ,,,Georgia Tech,,NA,2022,1,,
