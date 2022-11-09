@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weave-organize-demo/static/css/main.073c9b0a.css",
+    "main.js": "/weave-organize-demo/static/js/main.53ab3cbc.js",
+    "static/js/787.ffe84d94.chunk.js": "/weave-organize-demo/static/js/787.ffe84d94.chunk.js",
+    "static/media/logo.svg": "/weave-organize-demo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weave-organize-demo/index.html",
+    "main.073c9b0a.css.map": "/weave-organize-demo/static/css/main.073c9b0a.css.map",
+    "main.53ab3cbc.js.map": "/weave-organize-demo/static/js/main.53ab3cbc.js.map",
+    "787.ffe84d94.chunk.js.map": "/weave-organize-demo/static/js/787.ffe84d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.53ab3cbc.js"
+  ]
+}
